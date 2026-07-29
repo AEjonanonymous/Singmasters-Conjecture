@@ -99,7 +99,7 @@ No messages.
 
 * 💻 `SingmastersConjecture.lean` 
 
-* 📝 `Bounding Singmaster's Conjecture via Constructive Type Transformation in Lean 4` 
+* 📝 `Bounding Singmaster's Conjecture via Constructive Type Transformation in Lean 4.pdf` 
 
 ---
 
