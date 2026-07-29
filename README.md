@@ -97,9 +97,9 @@ No messages.
 
 ## 📁 Repository Contents
 
-* 💻 `SingmastersConjecture.lean` 
+* 💻 `SingmastersConjecture.lean` — Contains the complete 14-stage type-level transformation pipeline implemented in Lean 4, formally verifying the structural reduction of Singmaster's conjecture from the unconstrained binomial solution space down to a bounded quadratic domain via Kummer's theorem, Legendre's identity, and Hermite floor expansions.
 
-* 📝 `Bounding Singmaster's Conjecture via Constructive Type Transformation in Lean 4.pdf` 
+* 📝 `Bounding Singmaster's Conjecture via Constructive Type Transformation in Lean 4.pdf` — The accompanying research paper detailing the theoretical background, architectural breakdown of the data-flow pipeline, and formal verification methodology for resolving Singmaster's conjecture.
 
 ---
 
