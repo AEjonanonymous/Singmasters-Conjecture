@@ -14,7 +14,7 @@ entire structural reduction is mechanically verified within the Lean 4 interacti
 
 ---
 
-## 📐 The Complete 14-Line Formal Proof Roadmap
+## 📐 The Complete 14-Line Formal Structural Reduction
 
 Line 1: Definition
 
@@ -97,9 +97,9 @@ No messages.
 
 ## 📁 Repository Contents
 
-* 💻 `SingmastersConjecture.lean`: 
+* 💻 `SingmastersConjecture.lean` 
 
-* 📝 `Bounding Singmaster's Conjecture via Constructive Type Transformation in Lean 4`: 
+* 📝 `Bounding Singmaster's Conjecture via Constructive Type Transformation in Lean 4` 
 
 ---
 
@@ -108,13 +108,13 @@ No messages.
 This project is licensed under the **Creative Commons Attribution 4.0 International (CC-BY 4.0)** License.
 
 ---
-
+<!--
 ## 📖 Citation
 
 If you use or build upon this formalization, please cite it as follows:
 
 > Reed, Jonathan ƒ(n). (2026). *Bounding Singmaster's Conjecture via Constructive Type Transformation in Lean 4* (Version 1.0) [Data set/Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21542914
-
+!-->
 ---
 [![Field: Combinatorics](https://img.shields.io/badge/Field-Combinatorics-blue.svg)](https://github.com/topics/affine-algebraic-geometry) [![Verified in Lean 4](https://img.shields.io/badge/Verified-Lean%204-purple.svg)](https://lean-lang.org/) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
