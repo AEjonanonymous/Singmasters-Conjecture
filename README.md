@@ -1,4 +1,4 @@
-<h1 align="center">Bounding Singmaster's Conjecture via Constructive Type Transformation in Lean 4</h1>
+<h1 align="center">🚧 Bounding Singmaster's Conjecture 🚧 <br><i>via</i> Constructive Type Transformation in Lean 4 </h1>
 
 <div align="center">
 </div>
