@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite this research as follows."
+authors:
+  - name: "Jonathan ƒ(n)"
+title: "Bounding Singmaster's Conjecture via Constructive Type Transformation in Lean 4"
+version: 1.0
+doi: 10.5281/zenodo.21660301
+date-released: 2026-07-29
