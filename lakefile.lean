@@ -4,7 +4,7 @@ open Lake DSL
 package «SingmastersConjecture» where
 
 require mathlib from git
-  "https://github.com/leanprover-community/mathlib4.git" @ "v4.32.0"
+  "https://github.com/leanprover-community/mathlib4.git" 
 
 @[default_target]
 lean_lib «SingmastersConjecture» where
